@@ -1,0 +1,69 @@
+{% if page %}{% set obj = page %}{% else %}{% set obj = section %}{% endif -%}
+<!DOCTYPE html>
+<html lang=en-us>
+<head>
+  <meta charset=utf-8>
+  <title>{{ obj.title }} | {{ config.title }}</title>
+  {% if obj.description -%}
+  <meta name=description content="{{ obj.description }}">
+  {% endif -%}
+  {% if obj.extra.keywords -%}
+  <meta name=keywords content="{{ obj.extra.keywords | join(sep=",") }}">
+  {% endif -%}
+  <meta name=viewport content="width=device-width">
+  <link rel=preconnect href="https://fonts.googleapis.com">
+  <link rel=preconnect href="https://fonts.gstatic.com" crossorigin>
+  <link rel=stylesheet href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&family=Raleway:wght@700&display=swap">
+  <link rel=stylesheet href="/assets/style.css">
+</head>
+<body>
+
+  <header class=header>
+    <img src="/assets/header.png" alt="Christian Science on Florida's Space Coast — Explore Spiritual Ideas and the Science of Christianity">
+  </header>
+
+  <script src="/assets/mobile-menu.js"></script>
+  <span id="menu-button">
+    <svg class="inline" viewBox="0 0 32 32" width="16" height="16">
+      <rect y="2" width="32" height="6"></rect>
+      <rect y="12" width="32" height="6"></rect>
+      <rect y="22" width="32" height="6"></rect>
+    </svg>
+    Menu
+  </span>
+  <nav id="menu">
+    <a href="{{ get_url(path="@/_index.md") | safe }}">Home</a>
+    <a href="{{ get_url(path="@/services-and-sunday-school.md") | safe }}">Services & Sunday School</a>
+    <a href="{{ get_url(path="@/resources.md") | safe }}">Resources</a>
+    <a href="{{ get_url(path="@/reading-room.md") | safe }}">Reading Room</a>
+  </nav>
+
+  <div class=content>
+    {% if obj.title != "Online Services" %}
+    <aside class="regular-banner">
+      <a href="{{ get_url(path="@/online-services.md") | safe }}">
+        <strong>Online Sunday and Wednesday services:</strong>
+        <span style="text-decoration: underline">Click for details.</span>
+      </a>
+    </aside>
+    {% endif %}
+
+{{ obj.content | safe }}
+
+    <aside class=lesson-subject>
+      <a href="https://biblelesson.christianscience.com/" rel=external target=_blank>
+        The subject of this week’s <em>Bible Lesson</em> is: <span id=bible-lesson-subject>&nbsp;</span>
+      </a>
+    </aside>
+
+  </div>
+
+  <footer class=footer>
+    <p><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=VSFAVRMSSEW36&amp;source=url" target="_blank" rel="noopener"><img class="aligncenter wp-image-333 size-full" src="/assets/paypal-button.png" alt="Donate now via PayPal" width="100" height="49"></a></p>
+    <span class=copyright>First Church of Christ, Scientist</span>
+    <address>600 E Melbourne Ave, Melbourne, FL 32901</address>
+  </footer>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js" integrity="sha256-4iQZ6BVL4qNKlQ27TExEhBN1HFPvAvAMbFavKKosSWQ=" crossorigin=anonymous></script>
+  <script src="/assets/lesson-subject.js"></script>
+</body>
+</html>

@@ -1,0 +1,379 @@
+@import 'normalize.css'
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400&display=swap')
+
+$bg-white: #ffffff
+$bg-gray: #f0f0f4
+$bg-blue: #5670a5
+$bg-yellow: #fdbe00
+$bg-red: #cf4167
+$border-gray: #a0a0a0
+$text-color: #303030
+$text-blue: #3f61a7
+$text-link: #d03020
+$green: #4e9a06
+$yellow: #d4b800
+$red: #bf3d3d
+$mobile-width: 800px
+
+@mixin centered-block($border)
+  @if $border
+    background: $bg-white
+    border: 1em solid $bg-white
+  display: block
+  margin: 1em auto
+
+html
+  background: $bg-gray
+
+body
+  color: $text-color
+  font-family: Lato, sans-serif
+  line-height: 1.5
+  margin: auto
+  max-width: 1100px
+  padding: 1rem 1.5rem
+  @media (max-width: $mobile-width)
+    padding: 1rem
+
+a
+  color: inherit
+  transition: color 0.10s linear
+  &:hover
+    color: $text-link
+  &.blue
+    color: $text-link
+
+address
+  font-style: normal
+
+h1,h2,h3,h4,h5
+  font-family: Raleway, sans-serif
+  font-weight: bold
+
+h1
+  font-size: 1.3em
+
+h2
+  font-size: 1.1em
+
+h3
+  font-size: 1em
+
+time
+  font-variant: small-caps
+  font-weight: bold
+
+p > img
+  @include centered-block($border: false)
+
+article
+  font-family: Lato, sans-serif
+  font-size: 1.15em
+  text-align: justify
+  text-rendering: optimizeLegibility
+
+  margin: 5rem auto 0
+  max-width: 840px
+  @media (max-width: $mobile-width)
+    max-width: none
+
+  -webkit-hyphens: auto
+  -ms-hyphens: auto
+  hyphens: auto
+
+  blockquote
+    background-color: $bg-white
+    font-style: italic
+    font-weight: bold
+    padding: 1rem 2em
+
+details
+  margin: 1em 0
+  summary
+    cursor: pointer
+    text-decoration: underline
+  summary + *
+    margin-top: 0
+
+dl
+  display: flex
+  flex-wrap: wrap
+  dt
+    flex: 20%
+    align-self: center
+    font-weight: bold
+    text-align: right
+  dd
+    flex: 75%
+    margin: 0
+    margin-left: 1em
+    padding: 0.25em 0
+
+hr
+  border: none
+  border-top: 1px solid $border-gray
+  margin-bottom: 2.5em
+  margin-top: 0.5em
+
+iframe
+  @include centered-block($border: true)
+
+ul
+  margin-left: 2em
+  padding-left: 0
+
+.header
+  align-items: center
+  display: flex
+  justify-content: center
+  margin: auto
+  img
+    padding-left: 5%
+    max-width: 640px
+    min-width: 50%
+  h1
+    font-size: 2em
+    font-weight: normal
+    margin: 0
+    padding-top: 1rem
+    @media (max-width: $mobile-width)
+      font-size: 1.6em
+      line-height: 1
+  address
+    @media (max-width: $mobile-width)
+      font-size: 0.9em
+      line-height: 1
+
+#menu-button
+  display: none
+
+#menu
+  align-content: space-around
+  clear: both
+  display: flex
+  flex-wrap: wrap
+  justify-content: space-between
+  line-height: 3em
+  margin-top: 0.25em
+  a
+    border-radius: 1rem 1rem 0 0
+    display: block
+    flex: auto
+    padding: 0 0.5em
+    text-align: center
+    &:active,
+    &:hover
+      background: #ffffff
+
+@media (max-width: $mobile-width)
+  #menu-button
+    background-color: $bg-white
+    cursor: pointer
+    display: block
+    line-height: 3em
+    margin: 0.5em -1rem 0
+    padding: 0 1rem
+
+    &:hover
+      background-color: white
+    svg
+      fill: $text-color
+
+  #menu
+    align-items: stretch
+    background-color: $bg-white
+    box-shadow: 0 0 15px 0 gray
+    display: none
+    flex-direction: column
+    flex-flow: flex-start
+    flex-wrap: nowrap
+    left: 0
+    margin-top: 0
+    position: absolute
+    width: 100%
+    z-index: 1
+
+.content > *
+  background: #ffffff
+  border: solid 1px $border-gray
+  @media (max-width: $mobile-width)
+    border-left: none
+    border-right: none
+  margin: 0 -1rem
+  overflow: auto
+  padding: 0 1rem
+  &:first-child
+    border-radius: 1rem 1rem 0 0
+    @media (max-width: $mobile-width)
+      border-radius: 0
+  &:not(:first-child)
+    border-top: none
+  &:last-child
+    border-radius: 0 0 1rem 1rem
+    @media (max-width: $mobile-width)
+      border-radius: 0
+
+.lesson-subject
+  background: $bg-gray
+  a
+    display: block
+    margin: 0 -1rem
+    padding: 1em 1rem
+    text-decoration: none
+  em
+    font-style: normal
+    text-decoration: underline
+  #bible-lesson-subject
+    font-weight: bold
+
+.announcement-banner
+  @extend .lesson-subject
+  background: lighten(desaturate($yellow, 30), 40)
+
+.regular-banner
+  @extend .lesson-subject
+
+.content-and-sidebar
+  display: flex
+  flex: auto
+  overflow: visible
+  > aside
+    flex-shrink: 2
+    &.left
+      border-right: 1px solid $border-gray
+      margin-right: 1rem
+      padding-right: 1rem
+      order: -1
+    &.right
+      border-left: 1px solid $border-gray
+      margin-left: 1rem
+      padding-left: 1rem
+      order: 1
+  @media (max-width: $mobile-width)
+    display: block
+    > aside.left, > aside.right
+      border-left: none
+      border-right: none
+      margin: 0
+      padding: 0
+    > aside:first-child
+      border-bottom: 1px solid $border-gray
+    > aside:last-child
+      border-top: 1px solid $border-gray
+
+.footer
+  font-size: 0.9em
+  padding-top: 1rem
+  text-align: center
+
+.button
+  background: $bg-blue
+  border-radius: 4px
+  color: #ffffff
+  &:hover
+    color: #ffffff
+  &:active
+    color: #ffffff
+  display: inline-block
+  font-size: 0.8em
+  font-weight: bold
+  line-height: 3em
+  text-align: center
+  text-decoration: none
+  text-transform: uppercase
+  padding: 0 1em
+  white-space: nowrap
+
+.draft
+  background: $bg-red
+  border-radius: 0 0 1rem 1rem
+  line-height: 3
+  margin-bottom: 1rem
+  margin-top: -1rem
+  text-align: center
+  a
+    font-weight: bold
+
+.carousel
+  @include centered-block($border: true)
+  border-width: 1em 2em
+  line-height: 0
+  width: 400px
+
+.columns
+  display: flex
+  gap: 1em
+  justify-content: space-between
+  > *
+    flex: 50%
+
+.float
+  float: right
+
+.home-image
+  border-radius: 5px
+  margin: 2rem auto
+  max-width: calc(100% - 10rem)
+  @media (max-width: $mobile-width)
+    border-radius: 0
+    margin: -1rem -1rem 0
+    width: calc(100% + 2rem)
+
+.home-image-caption
+  margin: -2rem 5rem 2rem
+  @media (max-width: $mobile-width)
+    margin: 0
+
+.home-buttons
+  display: flex
+  margin: 2em 0
+  @media (max-width: $mobile-width)
+    flex-direction: column
+  >div
+    display: flex
+    flex-direction: column
+    flex: 1 0 0
+    img
+      display: block
+      margin: auto
+    .button
+      display: block
+      flex-grow: 0
+      margin: 0.5em
+
+.highlight-box
+  background: lighten(desaturate($yellow, 30), 40)
+  margin: 0 -1rem
+  padding: 0 1rem
+
+img.inline, svg.inline
+  vertical-align: middle
+
+img.float-right
+  float: right
+  max-width: 40%
+  padding-left: 1em
+
+img.float-left
+  float: left
+  max-width: 40%
+  padding-right: 1em
+
+.meeting-id
+  color: $green
+  font-weight: bold
+  margin-left: 0.2em
+  span
+    margin-right: 0.3em
+
+.meeting-password
+  color: $text-blue
+  font-weight: bold
+  margin-left: 0.2em
+  span
+    margin-right: 0.3em
+
+.phone-keypresses
+  font-weight: bold
+  letter-spacing: 0.1em
+  margin-left: 0.2em

@@ -1,0 +1,3 @@
+<p>
+  <a class=button href="{% if local %}{{ get_url(path=local) }}{% else %}{{ url }}{% endif %}">{{ body }}</a>
+</p>

@@ -1,0 +1,10 @@
+base_url = "https://www.csspacecoast.org"
+title = "Christian Science on Florida's Space Coast"
+default_language = "en"
+compile_sass = true
+
+[markdown]
+smart_punctuation = true
+
+[slugify]
+anchors = "off"
