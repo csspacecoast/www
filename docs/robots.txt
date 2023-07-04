@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /online-services/
+Sitemap: https://csspacecoast.github.io/www/sitemap.xml

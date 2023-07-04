@@ -2,6 +2,7 @@ base_url = "https://csspacecoast.github.io/www/"
 title = "Christian Science on Florida's Space Coast"
 default_language = "en"
 compile_sass = true
+output_dir = "docs"
 
 [markdown]
 smart_punctuation = true
