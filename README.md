@@ -15,10 +15,10 @@
 ## Deploying changes
 
 The website is served by GitHub pages, which is configured to serve the contents of
-the `docs/` directory of the `main` branch.
+the `public/` directory of the `main` branch.
 
-1. Run `zola build`, which will build the site into the `docs` directory.
-2. Run `git add docs` and make sure to include these changes in your commit.
+1. Run `zola build`, which will build the site into the `public` directory.
+2. Run `git add public` and make sure to include these changes in your commit.
 3. Push to the `main` branch on GitHub.
 
-Deployment usually takes 1–2 minutes after pushing.
+Deployment usually takes less than 1 minute after pushing.
