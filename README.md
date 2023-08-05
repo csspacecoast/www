@@ -22,4 +22,3 @@ the `public/` directory of the `main` branch.
 3. Push to the `main` branch on GitHub.
 
 Deployment usually takes less than 1 minute after pushing.
-
