@@ -1,7 +1,7 @@
 +++
 title = "Home"
 description = """\
-  The Church of Christ, Scientist, is designed to commemorate the words and \
+  The Church of Christ, Scientist, commemorates the words and \
   works of Christ Jesus. Christian Science teaches that God is Love and that we \
   are His beloved children. Understanding God's nature and His power leads to \
   healing in individual lives, as well as in the community and the world.\
@@ -23,7 +23,7 @@ keywords = [
 
 # Welcome!
 
-The *Church of Christ, Scientist,* is designed to commemorate the words and
+The *Church of Christ, Scientist,* commemorates the words and
 works of Christ Jesus. Christian Science teaches that God is Love and that we
 are His beloved children. Understanding God's nature and His power leads to
 healing in individual lives, as well as in the community and the world.
@@ -44,7 +44,7 @@ A lifelong student of the Bible, who yearned from her youth to find deeper
 answers to the persistent question of human suffering, Mary Baker Eddy turned
 wholeheartedly to God when she experienced a critical injury in 1866. As she
 read accounts of Jesus’ swift, powerful healings, a new sense of God, Spirit, as
-the only reality flooded her thought and healed her. Impelled to understand the
+the true reality flooded her thought and healed her. Impelled to understand the
 Principle behind this experience, she continued to search for and find in the
 Bible the underlying laws of God that would form the basis of her teaching and
 practice of Christian Science.
