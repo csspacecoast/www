@@ -35,9 +35,8 @@ love for them, and how the spiritual and moral teachings of the Bible and
 
 ## Childcare
 
-Child care for the very young is provided free of charge, under the care and
-supervision of an experienced adult. Infants and children who are too young to
-attend Sunday School are cared for lovingly.
+Infants and children who are too young to attend Sunday School are cared for 
+lovingly in our nursery by an experienced adult.
 
 </section>
 
