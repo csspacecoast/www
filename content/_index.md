@@ -15,6 +15,13 @@ keywords = [
 ]
 +++
 
+<aside class="announcement-banner">
+  <a href="/lectures-and-events/meaningful-change-2023/">
+    <strong>Upcoming lecture:</strong>
+    <span style="text-decoration: underline">Mark McCurties: “Meaningful Change For Ourselves & The World”</span> on Saturday, October 1, in the church auditorium.
+  </a>
+</aside>
+
 <p><img alt="" src="/media/community2-540x326.jpg" class="home-image"></p>
 
 <div class="content-and-sidebar">
