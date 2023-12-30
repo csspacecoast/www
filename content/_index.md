@@ -18,7 +18,7 @@ keywords = [
 <aside class="announcement-banner">
   <a href="/lectures-and-events/meaningful-change-2023/">
     <strong>Upcoming lecture:</strong>
-    <span style="text-decoration: underline">Mark McCurties: “Meaningful Change For Ourselves & The World”</span> on Saturday, October 1, in the church auditorium.
+    <span style="text-decoration: underline">Nicole Virgil: “Be Set Free!”</span> on Thursday, Feb 15, at 7 pm, at the Premiere Oaks Theater.
   </a>
 </aside>
 
