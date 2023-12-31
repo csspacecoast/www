@@ -9,8 +9,11 @@ path = "/lectures-and-events/Be_Set_Free_2024/"
 
 <div class="home-image-caption">
 
-*The power of God's love is the greatest agent for bringing needed change
-and healing into the world.*
+*We can seem trapped by
+circumstances—but living a
+spiritual sense of God-given
+liberty opens the way to
+overcome what binds us.*
 
 </div>
 
