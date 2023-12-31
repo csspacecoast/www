@@ -23,7 +23,7 @@ overcome what binds us.*
 
 <div style="font-size: 1.5em; text-align: center">
 A free talk on Christian Science<br>
-<time datetime="2024-02-15T19:00:00.000-0700">Thursday, February 15, 2024 @ 7:00 pm</time>
+<time datetime="2024-02-15T19:00:00.000-0500">Thursday, February 15, 2024 @ 7:00 pm</time>
 </div>
 
 <div style="text-align: center">
