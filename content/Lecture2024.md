@@ -1,14 +1,11 @@
 +++
 title = "Be Set Free! — February 15, 2024"
-path = "/lectures-and-events/meaningful-change-2023/"
-aliases = [
-  "/lecture2023/",
-]
+path = "/lectures-and-events/Be_Set_Free_2024/"
 +++
 
 <section>
 
-<h1><img alt="Be Set Free" src="/media/lecture2023/banner.png" class="home-image"></h1>
+<h1><img alt="Be Set Free" src="/media/BeSetFree_Banner.jpg" class="home-image"></h1>
 
 <div class="home-image-caption">
 
