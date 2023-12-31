@@ -28,7 +28,7 @@ A free talk on Christian Science<br>
 
 <div style="text-align: center">
 
-<img alt="" src="/media/lecture2023/mark-mccurties.png" style="padding-top: 1em; height: 250px">
+<img alt="" src="/media/nicolevirgil.jpg" style="padding-top: 1em; height: 250px">
 
 **Nicole Virgil, CS**  
 Christian Science Practitioner  
@@ -42,7 +42,7 @@ Member of the Christian Science Board of Lectureship
 
 ## Location: Premiere Oaks 10 Theater, Melbourne
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3167.0660634592878!2d-122.17754758398745!3d37.459162079818135!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fa4ab5f91da91%3A0x68f6a6426816d647!2sFirst+Church+of+Christ%2C+Scientist!5e0!3m2!1sen!2sus!4v1549514756941" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3519.975119099188!2d-80.65486372483949!3d28.08630180867635!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88de0e128a46d259%3A0x9d43d7219e7be8e3!2sPremiere%20Theaters%20Oaks%2010!5e0!3m2!1sen!2sus!4v1704064369510!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 <address>1800 W. Hibiscus Blvd.<br>Melbourne, FL</address>
 
