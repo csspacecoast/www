@@ -9,11 +9,11 @@ path = "/reading-room/"
 
 ## Visit the Reading Room
 
-The Reading Room is located in the front portion of our Sunday School building.
+The Reading Room is located in the front portion of our Sunday School building and is newly renovated!
 
 <dl>
   <dt>Hours</dt>
-  <dd><del>Monday – Friday, <time datetime="11:00">11 am</time> – <time datetime="14:00">2 pm</time></del><br><span class="">Temporarily closed while we relocate</span></dd>
+  <dd>Monday, Wednesday, Friday, <time datetime="11:00">11 am</time> – <time datetime="14:00">2 pm</time></dd>
   <dt>Address</dt>
   <dd><address>600 E Melbourne Ave<br>Melbourne, FL 32901</address></dd>
   <dt>Phone</dt>
