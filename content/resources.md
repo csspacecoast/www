@@ -2,13 +2,14 @@
 title = "Resources"
 path = "/resources/"
 +++
-
+<!--
 <aside class="announcement-banner">
   <a href="/lectures-and-events/Be_Set_Free_2024/">
     <strong>Upcoming lecture:</strong>
     <span style="text-decoration: underline">Nicole Virgil: “Be Set Free!”</span> on Thursday, Feb 15, at 7 pm, at the Premiere Oaks Theater.
   </a>
 </aside>
+-->
 
 <div class="content-and-sidebar">
 
