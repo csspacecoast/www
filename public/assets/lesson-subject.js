@@ -27,7 +27,7 @@ window.addEventListener("load", function() {
     "God the Preserver of Man",
     "Is the Universe, Including Man, Evolved by Atomic Force?"
   ];
-  var startDate = moment("2016-06-27");
+  var startDate = moment("2023-12-25");
   var weeksSinceStart = moment().diff(startDate, "weeks");
   var subjectIndex = weeksSinceStart % subjects.length;
   var currentSubject = subjects[subjectIndex];
