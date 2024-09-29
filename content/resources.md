@@ -92,11 +92,18 @@ Find an upcoming lecture
 
 <iframe width="400" height="225" src="https://www.youtube-nocookie.com/embed/ctpsRvgzkfw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<!--
 <strong>Soul of A Woman - The Life and Times of Mary Baker Eddy</strong>, created by
 Acadia Films in concert with New Hampshire Public Broadcasting (1994, 56 minutes)
 
 <iframe width="400" height="225" src="https://www.youtube-nocookie.com/embed/qif4_Sl1mVM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+-->
+<!--
+<strong>Mary Baker Eddy: Her Life and Legacy</strong>, created by
+The Mary Baker Eddy Library (10 minutes)
 
+<iframe width="400" height="225" src="https://www.youtube-nocookie.com/watch?v=iF-bBDzdlE8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+-->
 </aside>
 
 </div>
