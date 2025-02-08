@@ -2,14 +2,14 @@
 title = "Resources"
 path = "/resources/"
 +++
-<!--
+
 <aside class="announcement-banner">
-  <a href="/lectures-and-events/Be_Set_Free_2024/">
+  <a href="/lectures-and-events/learning-to-love-your-enemies/">
     <strong>Upcoming lecture:</strong>
-    <span style="text-decoration: underline">Nicole Virgil: “Be Set Free!”</span> on Thursday, Feb 15, at 7 pm, at the Premiere Oaks Theater.
+    <span style="text-decoration: underline">“Learning to Love Your Enemies” by Guilia Nesi Tetreau</span> on Monday, Feb 17, at 6:30 pm, at the First Church of Christ, Scientist, Cocoa.
   </a>
 </aside>
--->
+
 
 <div class="content-and-sidebar">
 
