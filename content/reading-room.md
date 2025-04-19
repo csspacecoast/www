@@ -28,7 +28,7 @@ The Reading Room is located in the front portion of our Sunday School building a
 
 # Christian Science Reading Room
 
-Our Christian Science Reading Room has both a bookstore and a reading area for
+Our Christian Science Reading Room is both a bookstore and a reading area for
 the exploration of spiritual healing, prayer, and spirituality. Visitors are
 welcome to ask questions about Christian Science, read and study on site, and
 make purchases.

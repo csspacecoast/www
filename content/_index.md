@@ -37,7 +37,7 @@ are His beloved children. Understanding God's nature and His power leads to
 healing in individual lives, as well as in the community and the world.
 
 You are welcome to join our [Sunday and Wednesday services](@/services-and-sunday-school.md).
-Children and those up to age 20 are welcome to attend [Sunday School](@/services-and-sunday-school.md).
+Children and teenagers (under age 20) are welcome to attend [Sunday School](@/services-and-sunday-school.md).
 
 # What is Christian Science?
 
@@ -68,7 +68,7 @@ Learn more about Christian Science
 
 # Reading Room
 
-Our Reading Room provides a quiet place to pray, study, and explore the Bible,
+Our Reading Room is for the community. It provides a quiet place to pray, study, and explore the Bible,
 the writings of Mary Baker Eddy, and Christian Science publications.
 
 {% button(local="@/reading-room.md") %}

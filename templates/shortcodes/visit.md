@@ -4,8 +4,9 @@
 
 ### Sunday
 * Church Service: <time datetime="10:00">10:00 am</time>
+	* Held in-person and also [via Zoom](@/online-services.md)
 * Sunday School: <time datetime="10:00">10:00 am</time>
-* Held in-person and also [via Zoom](@/online-services.md)
+	* Held in-person
 
 ### Wednesday
 * Testimony Meeting: <time datetime="19:30">7:30 pm</time>
