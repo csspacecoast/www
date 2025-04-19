@@ -3,13 +3,14 @@ title = "Resources"
 path = "/resources/"
 +++
 
-<aside class="announcement-banner">
-  <a href="/lectures-and-events/learning-to-love-your-enemies/">
-    <strong>Upcoming lecture:</strong>
-    “<u>Learning to Love Your Enemies</u>” by Giulia Nesi Tetreau on Monday, Feb 17, at 6:30 pm, at the First Church of Christ, Scientist, Cocoa.
-  </a>
-</aside>
-
+<!-- Start of our local lecture blah blah-->
+<!--<aside class="announcement-banner">-->
+<!--  <a href="/lectures-and-events/learning-to-love-your-enemies/">-->
+<!--    <strong>Upcoming lecture:</strong>-->
+<!--    “<u>Learning to Love Your Enemies</u>” by Giulia Nesi Tetreau on Monday, Feb 17, at 6:30 pm, at the First Church of Christ, Scientist, Cocoa.-->
+<!--  </a>-->
+<!--</aside>-->
+<!-- End of our local lecture-->
 
 <div class="content-and-sidebar">
 
