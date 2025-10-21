@@ -85,14 +85,9 @@ Find an upcoming lecture
 
 ## Videos on YouTube
 
-<strong>Experiencing more of God's unlimited opportunity</strong> with Janet Hegarty, CSB (20 minutes)
+<strong>2025 Healing 101 Lecture Series</strong>
 
-<iframe width="400" height="225" src="https://www.youtube-nocookie.com/embed/cSqNC2E0Spo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<strong>A God's-eye view of you!</strong> with Fujiko Takai Signs, CSB (82 minutes)
-
-<iframe width="400" height="225" src="https://www.youtube-nocookie.com/embed/ctpsRvgzkfw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="400" height="225" src="https://www.youtube-nocookie.com/embed/videoseries?si=ZPNdgVYG5bQ3eucO&amp;list=PLfgCSRbQJ6UDgyYYxqFyZ72lHMx8RGB1F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </aside>
 
