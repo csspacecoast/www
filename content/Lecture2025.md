@@ -5,7 +5,7 @@ path = "/lectures-and-events/learning-to-love-your-enemies/"
 
 <section>
 
-<h1><img alt="Learning to Love Your Enemies" src="/media/Lecture_2025/banner.png" class="lecture-banner-giulia"></h1>
+<h1><img alt="Learning to Love Your Enemies" src="/media/Lecture_2025/banner.png" class="lecture-banner"></h1>
 
 <div class="home-image-caption">
 
