@@ -9,8 +9,8 @@ path = "/services-and-sunday-school/"
 
 ## Sunday Service
 
-Our Sunday service is at <time datetime="10:00">10:00 am</time>.  This service
-provides an atmosphere for prayer and for listening to a
+Our Sunday service is at <time datetime="10:00">10:00 am</time>.  All are welcome. 
+This service provides an atmosphere for prayer and for listening to a
 [Bible Lesson](https://www.christianscience.com/publications-and-activities/bible-lessons)
 that promotes healing.  The Bible Lesson is composed of citations from the Bible and
 [Science and Health](https://www.christianscience.com/the-christian-science-pastor/science-and-health).
@@ -18,8 +18,8 @@ Each service includes hymn singing by the congregation and an inspirational solo
 
 ## Wednesday Meeting
 
-Join us for our Wednesday evening testimony meeting at <time
-datetime="19:30">7:30 pm</time>. This meeting includes singing hymns and
+Our Wednesday evening testimony meeting is at <time
+datetime="19:30">7:30 pm</time>. All are welcome. This meeting includes singing hymns and
 listening to readings from the Bible and *Science and Health* on a 
 timely subject. Those in attendance are invited to share testimonies or 
 remarks on how they apply the teachings of Christian Science in 

@@ -20,7 +20,9 @@ path = "/resources/"
 Many lectures are happening each week around the world, and some are broadcast
 online. You can use ChristianScience.com's
 <a href="https://www.christianscience.com/find-us/find-a-lecture" rel="external">Find a lecture</a>
-page to search through the upcoming lectures.
+page to search through the upcoming lectures. 
+Note that you can use the Search field to supply a word (such as "Florida") 
+to filter the list.
 
 {% button(url="https://www.christianscience.com/find-us/find-a-lecture") %}
 Find an upcoming lecture
