@@ -15,8 +15,14 @@ keywords = [
 ]
 +++
 <aside class="announcement-banner">
+  <a href="/online-services/">
+    <strong>Thanksgiving service:</strong>
+    Thursday, November 27, at 10:00 AM. Attend in-person or online using the <span style="text-decoration: underline">usual Zoom information</span>.
+  </a>
+</aside>
+<aside class="announcement-banner">
   <a href="/lectures-and-events/the-science-of-god-and-its-power-to-heal-us/">
-    <strong>Upcoming free lecture:</strong>
+    <strong>Upcoming lecture:</strong>
     “<u>The Science of God and Its Power To Heal Us</u>” by Nikki O’Hagan on Thursday, March 12, at 7:00 pm, at Premiere&nbsp;Theaters&nbsp;Oaks&nbsp;10,&nbsp;Melbourne.
   </a>
 </aside>
