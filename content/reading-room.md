@@ -13,7 +13,8 @@ The Reading Room is located in the front portion of our Sunday School building a
 
 <dl>
   <dt>Hours</dt>
-  <dd>Monday, Wednesday, Friday, <time datetime="11:00">11 am</time> – <time datetime="14:00">2 pm</time></dd>
+  <dd>Monday and Friday <time datetime="11:00">11 am</time> – <time datetime="14:00">2 pm</time>, 
+  Wednesday <time datetime="16:15">4:15 pm</time> – <time datetime="19:15">7:15 pm</time></dd>
   <dt>Address</dt>
   <dd><address>600 E Melbourne Ave<br>Melbourne, FL 32901</address></dd>
   <dt>Phone</dt>
