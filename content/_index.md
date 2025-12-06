@@ -16,8 +16,8 @@ keywords = [
 +++
 <aside class="announcement-banner">
   <a href="/online-services/">
-    <strong>Thanksgiving service:</strong>
-    Thursday, November 27, at 10:00 AM. Attend in-person or online using the <span style="text-decoration: underline">usual Zoom information</span>.
+    <strong>Christmas Carol Sing:</strong>
+    Come in person and sing with joy! Sunday, December 6, immediately after our 10:00 AM church service! 
   </a>
 </aside>
 <aside class="announcement-banner">
