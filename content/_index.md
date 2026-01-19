@@ -18,7 +18,8 @@ keywords = [
 <aside class="announcement-banner">
   <a href="/lectures-and-events/the-science-of-god-and-its-power-to-heal-us/">
     <strong>Upcoming lecture:</strong>
-    “<u>The Science of God and Its Power To Heal Us</u>” by&nbsp;Nikki&nbsp;O’Hagan&nbsp;on&nbsp;Thursday,&nbsp;March&nbsp;12,&nbsp;at&nbsp;7:00&nbsp;pm,&nbsp;at&nbsp;Premiere&nbsp;Theaters&nbsp;Oaks&nbsp;10,&nbsp;Melbourne. Click for details.
+    “<u>The Science of God and Its Power To Heal Us</u>”<br>
+	by Nikki O’Hagan on Thursday, March 12, at 7:00 pm, at Premiere Theaters Oaks 10, Melbourne. Click for details.
   </a>
 </aside>
 <aside class="announcement-banner-yellow">
