@@ -14,7 +14,7 @@ The Reading Room is located in the front portion of our Sunday School building a
 <dl>
   <dt>Hours</dt>
   <dd>Monday and Friday <time datetime="11:00">11 am</time> – <time datetime="14:00">2 pm</time>, 
-  Wednesday <time datetime="16:15">4:15 pm</time> – <time datetime="19:15">7:15 pm</time></dd>
+  Wednesday <time datetime="16:30">4:30 pm</time> – <time datetime="19:15">7:15 pm</time></dd>
   <dt>Address</dt>
   <dd><address>600 E Melbourne Ave<br>Melbourne, FL 32901</address></dd>
   <dt>Phone</dt>
@@ -26,6 +26,13 @@ The Reading Room is located in the front portion of our Sunday School building a
 </aside>
 
 <section>
+
+<aside class="announcement-banner-yellow">
+  <a href="/online-services/">
+    <strong>Bible Study:</strong>
+    Friday, January 30 at 1 pm in the Reading Room. The discussion topic will be the gospel of Mark.
+  </a>
+</aside>
 
 # Christian Science Reading Room
 
@@ -44,6 +51,9 @@ Merchandise for purchase includes:
 * <a href="https://www.csmonitor.com/" rel=external>The Christian Science Monitor</a>
 
 
+
 </section>
+
+
 
 </div>
