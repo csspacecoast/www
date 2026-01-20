@@ -28,10 +28,9 @@ The Reading Room is located in the front portion of our Sunday School building a
 <section>
 
 <aside class="announcement-banner-yellow">
-  <a href="/online-services/">
-    <strong>Bible Study:</strong>
-    Friday, January 30 at 1 pm in the Reading Room. The discussion topic will be the gospel of Mark.
-  </a>
+  <strong>Bible Study:</strong>
+  Friday, January 30, at 1 pm in the Reading Room.<br>
+  The discussion topic will be the gospel of Mark.<br>
 </aside>
 
 # Christian Science Reading Room
