@@ -14,7 +14,7 @@ keywords = [
   "healing",
 ]
 +++
-</aside>
+
 <aside class="announcement-banner">
   <a href="/lectures-and-events/the-science-of-god-and-its-power-to-heal-us/">
     <strong>Upcoming lecture:</strong>
@@ -23,10 +23,10 @@ keywords = [
   </a>
 </aside>
 <aside class="announcement-banner-yellow">
-  <a href="/online-services/">
-    <strong>Bible Study:</strong>
-    Friday, January 30 at 1 pm in the Reading Room. The discussion topic will be the gospel of Mark.
-  </a>
+  <br>
+  <strong>Bible Study:</strong>
+  Friday, January 30, at 1 pm in the Reading Room. The discussion topic will be the gospel of Mark.<br>
+  <br>
 </aside>
 
 <p><img alt="" src="/media/community2-540x326.jpg" class="home-image"></p>
