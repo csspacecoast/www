@@ -9,12 +9,13 @@ path = "/reading-room/"
 
 ## Visit the Reading Room
 
-The Reading Room is located in the front portion of our Sunday School building and is newly renovated!
+The Reading Room is located in the front portion of our Sunday School building and is newly renovated! <br>
+Park in the church lot. Please ring or knock.
 
 <dl>
   <dt>Hours</dt>
   <dd>Monday and Friday <time datetime="11:00">11 am</time> – <time datetime="14:00">2 pm</time>, 
-  Wednesday <time datetime="16:30">4:30 pm</time> – <time datetime="19:15">7:15 pm</time></dd>
+  Wednesday <time datetime="16:15">4:15 pm</time> – <time datetime="19:15">7:15 pm</time></dd>
   <dt>Address</dt>
   <dd><address>600 E Melbourne Ave<br>Melbourne, FL 32901</address></dd>
   <dt>Phone</dt>
@@ -35,12 +36,12 @@ The Reading Room is located in the front portion of our Sunday School building a
 
 # Christian Science Reading Room
 
-Our Christian Science Reading Room is both a bookstore and a reading area for
-the exploration of spiritual healing, prayer, and spirituality. Visitors are
-welcome to ask questions about Christian Science, read and study on site, and
-make purchases.
+Our Christian Science Reading Room is a comfortable, quiet place to read, study, pray, 
+and explore spirituality and spiritual healing. Books, music, and other publications are available 
+for purchase, and some are available for borrowing. Visitors are also welcome to ask questions 
+about Christian Science.  
 
-Merchandise for purchase includes:
+Merchandise includes:
 
 * <a href="https://www.christianscience.com/the-christian-science-pastor/holy-bible" rel=external>Bibles</a> and Bible study resources
 * <a href="https://www.christianscience.com/the-christian-science-pastor/science-and-health" rel=external>Science and Health with Key to the Scriptures</a>
