@@ -27,7 +27,7 @@ keywords = [
   Friday, March 27, at 1 pm in the Reading Room. We’ll continue discussing the gospel of Mark.<br>
 </aside>
 
-<p><img alt="" src="/media/community2-540x326.jpg" class="home-image"></p>
+<p><a href="/lectures-and-events/the-science-of-god-and-its-power-to-heal-us/"><img alt="The Science of God and Its Power To Heal Us" src="/media/Lecture2026/banner.png" class="lecture-banner"></a></p>
 
 <div class="content-and-sidebar">
 
