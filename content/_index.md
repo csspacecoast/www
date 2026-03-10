@@ -24,7 +24,7 @@ keywords = [
 </aside>
 <aside class="announcement-banner-blue" style="padding-top: 7pt; padding-bottom: 7pt">
   <strong>Bible Study:</strong>
-  Friday, February 27, at 1 pm in the Reading Room. The discussion topic will continue with Chapter 2 of the gospel of Mark.<br>
+  Friday, March 27, at 1 pm in the Reading Room. We’ll continue discussing the gospel of Mark.<br>
 </aside>
 
 <p><img alt="" src="/media/community2-540x326.jpg" class="home-image"></p>
