@@ -28,10 +28,10 @@ Park in the church lot. Please ring or knock.
 
 <section>
 
-<aside class="announcement-banner-blue">
+<aside class="announcement-banner">
   <strong>Bible Study:</strong>
-  Friday, February 27, at 1 pm in the Reading Room.<br>
-  The discussion topic will continue with Chapter 2 of the gospel of Mark.<br>
+  Friday, April 24, at 1 pm in the Reading Room.<br>
+  We’ll continue discussing the gospel of Mark.<br>
 </aside>
 
 # Christian Science Reading Room
