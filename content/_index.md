@@ -22,9 +22,9 @@ keywords = [
 	by Nikki O’Hagan on Thursday, March 12, at 7:00 pm, at Premiere Theaters Oaks 10, Melbourne. Click for details.
   </a>
 </aside>
-<aside class="announcement-banner-blue" style="padding-top: 7pt; padding-bottom: 7pt">
+<aside class="announcement-banner" style="padding-top: 7pt; padding-bottom: 7pt">
   <strong>Bible Study:</strong>
-  Friday, March 27, at 1 pm in the Reading Room. We’ll continue discussing the gospel of Mark.<br>
+  Friday, April 24, at 1 pm in the Reading Room. We’ll continue discussing the gospel of Mark.<br>
 </aside>
 
 <p><a href="/lectures-and-events/the-science-of-god-and-its-power-to-heal-us/"><img alt="The Science of God and Its Power To Heal Us" src="/media/Lecture2026/banner.png" class="lecture-banner"></a></p>
