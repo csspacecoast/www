@@ -30,7 +30,7 @@ Park in the church lot. Please ring or knock.
 
 <aside class="announcement-banner">
   <strong>Bible Study:</strong>
-  Friday, April 24, at 1 pm in the Reading Room.<br>
+  Friday, May 29, at 1 pm in the Reading Room.<br>
   We’ll continue discussing the gospel of Mark.<br>
 </aside>
 
