@@ -17,7 +17,7 @@ keywords = [
 
 <aside class="announcement-banner" style="padding-top: 7pt; padding-bottom: 7pt">
   <strong>Bible Study:</strong>
-  Friday, May 29, at 1 pm in the Reading Room. We’ll continue discussing the gospel of Mark.<br>
+  Friday, June 26, at 1 pm in the Reading Room. We’ll continue by discussing Chapter 7 of the gospel of Mark.<br>
 </aside>
 
 
