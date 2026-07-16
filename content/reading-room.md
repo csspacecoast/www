@@ -30,8 +30,8 @@ Park in the church lot. Please ring or knock.
 
 <aside class="announcement-banner">
   <strong>Bible Study:</strong>
-  Friday, June 26, at 1 pm in the Reading Room.<br>
-  We’ll continue by discussing Chapter 7 of the gospel of Mark.<br>
+  Friday, July 31, at 1 pm in the Reading Room.<br>
+  We’ll continue by discussing Chapter 8 of the gospel of Mark.<br>
 </aside>
 
 # Christian Science Reading Room
