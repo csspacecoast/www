@@ -30,7 +30,8 @@ Park in the church lot. Please ring or knock.
 
 <aside class="announcement-banner">
   <strong>Bible Study:</strong>
-  Friday, August 28, at 1 pm in the Reading Room.<br>
+  CANCELLED - Friday, August 28, at 1 pm in the Reading Room.<br>
+  RESCHEDULED - Friday, September 11th at 1 pm <br>
   We’ll continue by discussing Chapter 8 & 9 of the gospel of Mark.<br>
 </aside>
 

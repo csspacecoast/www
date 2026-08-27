@@ -17,7 +17,9 @@ keywords = [
 
 <aside class="announcement-banner" style="padding-top: 7pt; padding-bottom: 7pt">
   <strong>Bible Study:</strong>
-  Friday, August 28, at 1 pm in the Reading Room. We’ll continue by discussing Chapter 8 & 9 of the gospel of Mark.<br>
+  CANCELLED - Friday, August 28, at 1 pm in the Reading Room.<br>
+  RESCHEDULED - Friday, September 11th at 1 pm <br>
+  We’ll continue by discussing Chapter 8 & 9 of the gospel of Mark.<br>
 </aside>
 
 
