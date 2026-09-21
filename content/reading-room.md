@@ -29,10 +29,11 @@ Park in the church lot. Please ring or knock.
 <section>
 
 <aside class="announcement-banner">
-  <strong>Bible Study:</strong>
-  CANCELLED - Friday, August 28, at 1 pm in the Reading Room.<br>
-  RESCHEDULED - Friday, September 11th at 1 pm <br>
-  We’ll continue by discussing Chapter 8 & 9 of the gospel of Mark.<br>
+  <strong>Bible Study: 2nd and 4th Fridays of each month</strong>
+  <br>
+  Upcoming: Sept 25th, Oct 9th, and Oct 23rd at 1 pm<br>
+  in the Reading Room. We'll discuss successive chapters  <br>
+  from the gospel of Mark, chapter 10 on.<br>
 </aside>
 
 # Christian Science Reading Room
